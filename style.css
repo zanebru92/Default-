@@ -188,3 +188,13 @@ img {
     display:block;
     width:100%;
 }
+/* Section-title */
+.section-title {
+    text-align: center;
+}
+.underline {
+    width: 7rem;
+    height: 0.25rem;
+    background: var(--clr-primary-500);
+    margin:0 auto;
+}
